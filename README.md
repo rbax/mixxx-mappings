@@ -17,19 +17,19 @@
 
 - Deriving from (DJ-WeGO4/reference):
 ```
-     Pioneer DDJ-WeGO4
+    Pioneer DDJ-WeGO4
        
-        built and tested with mixxx 2.3
+    built and tested with mixxx 2.3
 		
-		Derived from the works of:
+	Derived from the works of:
 		
-		DJ David Mukasey (dmukasey@gmail.com)
-		Samuel Nicholas (nicholas.samuel@gmail.com)
-		Joan Ardiaca Jové (joan.ardiaca@gmail.com, https://github.com/jardiacaj/mixxx) for the Pioneer DDJ-SB
-		wingcom (wwingcomm@gmail.com, https://github.com/wingcom/Mixxx-Pioneer-DDJ-SB).
-		Hilton Rudham (https://github.com/hrudham/Mixxx-Pioneer-DDJ-SR).
+	DJ David Mukasey (dmukasey@gmail.com)
+	Samuel Nicholas (nicholas.samuel@gmail.com)
+	Joan Ardiaca Jové (joan.ardiaca@gmail.com, https://github.com/jardiacaj/mixxx)
+	wingcom (wwingcomm@gmail.com, https://github.com/wingcom/Mixxx-Pioneer-DDJ-SB)
+	Hilton Rudham (https://github.com/hrudham/Mixxx-Pioneer-DDJ-SR)
 
-		this mapping continues the tradition of being published under the MIT license.
+	this mapping continues the tradition of being published under the MIT license.
 ```
 
 Mapping Status
@@ -49,12 +49,12 @@ Mapping Status
 |✅|D2-2|Sync||
 |✅|D2-1+shift|Sync||
 |✅|D2-2+shift|Sync||
-|x|D3-1|Loop 1/2x||
-|x|D3-2|Loop 1/2x||
+|✅|D3-1|Loop 1/2x||
+|✅|D3-2|Loop 1/2x||
 |✅|D4-1|Auto Beat Loop|reverts to 32|
 |✅|D4-2|Auto Beat Loop|reverts to 32|
-|x|D5-1|Loop 2x||
-|x|D5-2|Loop 2x||
+|✅|D5-1|Loop 2x||
+|✅|D5-2|Loop 2x||
 |✅|D6-1|FX1|toggles fx1 on ui|
 |✅|D6-2|FX1|toggles fx1 on ui|
 |✅|D7-1|FX2|toggles fx2 on ui|
